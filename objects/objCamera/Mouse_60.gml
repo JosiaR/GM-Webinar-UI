@@ -1,0 +1,1 @@
+zoom = max( .5, zoom - .1);
